@@ -1,5 +1,5 @@
--  I'm Devin! I am a Data Scientist, a PM and a learner!
+-  :mortar_board: I'm Devin! I am a Data Scientist, a PM and always a learner!
 -  I’m interested in the real-life application of Machine Learning to make a better world! 
 -  Let's connect on [LinkedIn](https://www.linkedin.com/in/difangu/)!
--  My technical expertise includes Data Mining (Pattern Mining and Clustering), Machine Learning, Times-Series Forecasting, Deep Learning 
--  My interpersonal skills include Project Management, Process Improvement, Influencing, Voice of Customer, Cross-Functional Communication, Stakeholder Management 
+-  :computer: My technical expertise includes Data Mining (Pattern Mining and Clustering), Machine Learning, Times-Series Forecasting, Deep Learning 
+-  :speech_balloon:	My interpersonal skills include Project Management, Process Improvement, Influencing, Voice of Customer, Cross-Functional Communication, Stakeholder Management 
