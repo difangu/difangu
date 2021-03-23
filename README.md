@@ -10,4 +10,5 @@
     -  Project Management, 
     -  Influencing, 
     -  Voice of Customer, 
-    -  Cross-Functional Communication, 
+    -  Cross-Functional Communication
+    -  Stakeholder Management
