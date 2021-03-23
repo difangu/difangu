@@ -8,8 +8,6 @@
     -   Deep Learning 
 -  :speech_balloon:	 My interpersonal skills include 
     -  Project Management, 
-    -  Process Improvement, 
     -  Influencing, 
     -  Voice of Customer, 
     -  Cross-Functional Communication, 
-    -  Stakeholder Management 
