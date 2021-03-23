@@ -1,5 +1,5 @@
 -  :mortar_board:  I'm Devin! I am a Data Scientist, a Technical PM and always a learner!
--  I’m interested in the real-life application of Machine Learning to make a better world! 
+-  I’m interested in the real-life application of Machine Learning to make better products and a better world! 
 -  Let's connect on [LinkedIn](https://www.linkedin.com/in/difangu/)!
 -  :computer: My technical expertise includes 
     -   Data Mining (Pattern Mining and Clustering), 
