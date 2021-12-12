@@ -1,4 +1,4 @@
--  :mortar_board:  I'm Devin! I am a ex-Data Scientist @ Cigna and currently a Product Support Manager @ Google
+-  :mortar_board:  I'm Devin! I am a ex-Data Scientist @ Cigna and currently a Product Operations Manager @ Google
 -  I’m interested in the real-life application of Machine Learning to make better products and a better world! 
 -  Let's connect on [LinkedIn](https://www.linkedin.com/in/difangu/)!
 -  :computer: My technical expertise includes 
@@ -6,9 +6,4 @@
     -   Machine Learning, 
     -   Times-Series Forecasting, 
     -   Deep Learning 
--  :speech_balloon:	 My interpersonal skills include 
-    -  Project Management, 
-    -  Influencing, 
-    -  Voice of Customer, 
-    -  Cross-Functional Communication
-    -  Stakeholder Management
+
